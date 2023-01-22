@@ -1,7 +1,7 @@
 Markup_Manuscript
 ===
 
-Changepoint inferece in Relational Event History data of a Social Network
+Changepoint Inferece in Relational Event History data of a Social Network
 
 ---
 This repository contains the files required to produce the text of Hsuan Lee's "Changepoint inferece in Relational Event History data of a Social Network" report. 
